@@ -1,0 +1,5 @@
+compose.bak
+compose.yaml
+Dockerfile
+node_modules/
+db/
