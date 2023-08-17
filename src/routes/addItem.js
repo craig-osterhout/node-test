@@ -9,5 +9,5 @@ module.exports = async (req, res) => {
     };
 
     await db.storeItem(item);
-    res.send(item2);
+    res.send(item);
 };
